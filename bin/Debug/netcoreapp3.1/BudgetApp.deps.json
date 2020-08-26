@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BudgetApp/1.0.0": {
+        "dependencies": {
+          "addressBookLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BudgetApp.dll": {}
+        }
+      },
+      "addressBookLibrary/1.0.0": {
+        "runtime": {
+          "addressBookLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BudgetApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "addressBookLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

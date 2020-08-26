@@ -1,0 +1,16 @@
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.csprojAssemblyReference.cache
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.AssemblyInfoInputs.cache
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.AssemblyInfo.cs
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.exe
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.deps.json
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.runtimeconfig.json
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.runtimeconfig.dev.json
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.dll
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\BudgetApp.pdb
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\addressBookLibrary.dll
+C:\Users\Storm\Documents\repo\BudgetApp\bin\Debug\netcoreapp3.1\addressBookLibrary.pdb
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.csproj.CopyComplete
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.dll
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.pdb
+C:\Users\Storm\Documents\repo\BudgetApp\obj\Debug\netcoreapp3.1\BudgetApp.genruntimeconfig.cache
