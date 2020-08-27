@@ -8,7 +8,7 @@ namespace BudgetApp
     {
         static void Main(string[] args)
         {
-            WriteLine("Welcom to the budgeting app!");
+            WriteLine("Welcome to the simple budgeting app!");
 
             //instantiate the user
             var person = new Person();
@@ -17,9 +17,14 @@ namespace BudgetApp
             WriteLine("What is your last name?");
             person.LastName = ReadLine();
             
+            
             if(person.FirstName != null && person.LastName != null)
             {
                 WriteLine($"Welcome {person.FirstName} {person.LastName} \n \n What Can I do For You? \n");
+            }
+            else
+            {
+                WriteLine("You must have a name right?!?");
             }
 
             //options total up pay, total up bills, total left over
@@ -84,7 +89,7 @@ namespace BudgetApp
             WriteLine($"This leaves you with {(netIncome / 30):C} per day in a 30 day month, if you do not intend to put any money into savings");
 
 
-
+            //options for saving coming soon
 
 
 
